@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **MERN Stack**
+ 🌱 I’m currently learning **SvelteKit**
 
 💬 Ask me about **anything [here](https://github.com/lekkaaudisy/lekkaaudisy/issues)**
 
